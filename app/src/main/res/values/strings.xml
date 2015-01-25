@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">通讯录</string>
+    <string name="hello_world">欢迎进入通讯录系统！</string>
+    <string name="action_about">关于</string>
+    <string name="more">更多</string>
+    <string name="title_main_activity">联系人</string>
+    <string name="title_activity_add">添加联系人</string>
+    <string name="number">编号</string>
+    <string name="name">姓名</string>
+    <string name="phone">手机号</string>
+    <string name="email">E-mail</string>
+    <string name="address">地址</string>
+    <string name="gender">性别</string>
+    <string name="relationship">关系</string>
+    <string name="remark">备注</string>
+    <string name="number_hint">请输入编号，不能为空</string>
+    <string name="name_hint">请输入姓名，不能为空</string>
+    <string name="phone_hint">请输入电话号码，不能为空</string>
+    <string name="email_hint">请输入邮箱</string>
+    <string name="address_hint">请输入地址</string>
+    <string name="remark_hint">请输入备注信息</string>
+    <string name="save">保存</string>
+    <string name="cancel">取消</string>
+    <string name="add">添加</string>
+    <string name="search_hint">请输入联系人姓名或电话</string>
+    <string name="male">男</string>
+    <string name="female">女</string>
+    <string name="title_activity_detail">联系人详情</string>
+    <string name="call">拨号</string>
+    <string name="sms">短信</string>
+    <string name="title_activity_modify">修改信息</string>
+    <string name="modify">修改</string>
+    <string name="delete">删除</string>
+    <string name="call_text">打电话</string>
+    <string name="view_text">查看</string>
+    <string name="sms_text">发短信</string>
+    <string name="title_activity_about">关于</string>
+    <string name="about">关于</string>
+    <string name="about_text"> 简介：本应用是一款简单的通讯录系统，能够存储1000条以上的联系人数据，有方便的增添、删除联系人功能。
+                                                                                                           快捷的搜索功能能使你迅速找到指定的联系人，同时还能拨打电话和发短信。\n开发者：李松（华中科技大学2010届软件工程1007班）</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

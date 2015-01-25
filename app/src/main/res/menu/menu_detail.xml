@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.songlee.activity.DetailActivity">
+
+    <item
+        android:id="@+id/action_modify"
+        android:icon="@drawable/ic_action_edit"
+        android:title="@string/modify"
+        android:orderInCategory="1"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_delete"
+        android:icon="@drawable/ic_action_discard"
+        android:title="@string/delete"
+        android:orderInCategory="2"
+        app:showAsAction="ifRoom" />
+
+</menu>
