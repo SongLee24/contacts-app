@@ -4,7 +4,7 @@
 
 ##Screenshot
 
-![](https://github.com/SongLee24/contacts-app/blob/master/screenshot/screenshot_list.png) ![](https://github.com/SongLee24/contacts-app/blob/master/screenshot/screenshot_search.png) ![](https://github.com/SongLee24/contacts-app/blob/master/screenshot/screenshot_operate.png)
+![](https://github.com/SongLee24/contacts-app/blob/master/screenshot/screenshot_list.png) ![](https://github.com/SongLee24/contacts-app/blob/master/screenshot/screenshot_search.png) ![](https://github.com/SongLee24/contacts-app/blob/master/screenshot/screenshot_new.png)
 
-![](https://github.com/SongLee24/contacts-app/blob/master/screenshot/screenshot_detail.png) ![](https://github.com/SongLee24/contacts-app/blob/master/screenshot/screenshot_new.png) ![](https://github.com/SongLee24/contacts-app/blob/master/screenshot/screenshot_delete.png)
+![](https://github.com/SongLee24/contacts-app/blob/master/screenshot/screenshot_operate.png) ![](https://github.com/SongLee24/contacts-app/blob/master/screenshot/screenshot_detail.png) ![](https://github.com/SongLee24/contacts-app/blob/master/screenshot/screenshot_delete.png)
 
